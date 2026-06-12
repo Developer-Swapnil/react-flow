@@ -1,0 +1,5 @@
+.chrome-check
+node_modules
+npm-debug.log*
+vite-dev.log
+vite-dev.err.log
